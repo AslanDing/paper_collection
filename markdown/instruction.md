@@ -148,6 +148,6 @@ This is really___very___important text.
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-   ![Tux, the Linux mascot](/aul/homes/xzhen019/data/code/paper_collection/markdown/assets/tux.PNG)
+   ![Tux, the Linux mascot](./assets/tux.PNG)
 
 3. Close the file.
