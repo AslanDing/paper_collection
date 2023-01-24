@@ -257,3 +257,35 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     `{ my code }`
 
     Add as many paragraphs as you like.
+
+
+
+
+[Heading IDs](#basic)
+
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
+~~The world is flat.~~ We now know that the world is round.
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
+
+I need to highlight these ==very important words==.
+
+H~2~O
+
+X^2^
+
+`http://www.example.com`
+
