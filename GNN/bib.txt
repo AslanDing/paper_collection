@@ -1,0 +1,8 @@
+@inproceedings{hu2020heterogeneous,
+  title={Heterogeneous graph transformer},
+  author={Hu, Ziniu and Dong, Yuxiao and Wang, Kuansan and Sun, Yizhou},
+  booktitle={Proceedings of The Web Conference 2020},
+  pages={2704--2710},
+  year={2020}
+}
+

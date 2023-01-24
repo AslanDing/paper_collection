@@ -1,0 +1,29 @@
+@article{mousavi2019cred,
+  title={CRED: A deep residual network of convolutional and recurrent units for earthquake signal detection},
+  author={Mousavi, S Mostafa and Zhu, Weiqiang and Sheng, Yixiao and Beroza, Gregory C},
+  journal={Scientific reports},
+  volume={9},
+  number={1},
+  pages={1--14},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{mousavi2020earthquake,
+  title={Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking},
+  author={Mousavi, S Mostafa and Ellsworth, William L and Zhu, Weiqiang and Chuang, Lindsay Y and Beroza, Gregory C},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={1--12},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@inproceedings{chowdhury2021faser,
+  title={FASER: Seismic Phase Identifier for Automated Monitoring},
+  author={Chowdhury, Farhan Asif and Siddiquee, M Ashraf and Baker, Glenn Eli and Mueen, Abdullah},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={2714--2721},
+  year={2021}
+}
