@@ -47,7 +47,6 @@ plt.rc('ytick', labelsize=BIGGER_SIZE )    # fontsize of the tick labels
 plt.rc('legend', fontsize=BIGGER_SIZE )    # legend fontsize
 font1 = {'color':'black','size':18}
 
-
 plt.plot(ratios, bb_no_aug[0],'o-', label = "W/O Aug.")
 plt.plot(ratios, bb_aug[0],'o-', label = "W/ Aug.")
 plt.legend()
@@ -78,3 +77,19 @@ plt.ylabel('F1')
 plt.xlabel('Corruption Degree')
 plt.savefig('./figures/ablation/bb/F1.pdf')
 plt.show()
+
+handle_lists = []
+color_list = ['r', 'k', 'm', 'c','b', 'g']
+mark_list = ['s', 'o', 'p', '*','v', 'X']
+for i in range(feature_concat_list.shape[0]):
+    handle = plt.scatter(feature_concat_list[i, :64, 0], feature_concat_list[i, :64, 1],
+                         c=color_list[i], marker=mark_list[i])
+    handle_lists.append(handle)
+plt.legend(handle_lists, ['corruption data embedding', 'original data embedding'])
+# plt.rcParams['savefig.dpi']=300
+# plt.rcParams.update({'font.size':5})
+plt.savefig('./tsne_show_%f_.pdf'%drop_rate)
+# plt.savefig('./tsne_show_%f_.jpg'%drop_rate)
+plt.cla()
+
+

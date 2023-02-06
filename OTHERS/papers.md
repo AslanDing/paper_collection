@@ -16,4 +16,6 @@
 # 2015
 - Chen, Tianqi, et al. "Xgboost: extreme gradient boosting." R package version 0.4-2 1.4 (2015): 1-4.[paper](https://cran.microsoft.com/snapshot/2017-12-11/web/packages/xgboost/vignettes/xgboost.pdf)
 
-
+#   broader impact & ethic statement
+- Yu, Zeping, et al. "Codecmr: Cross-modal retrieval for function-level binary source code matching." Advances in Neural Information Processing Systems 33 (2020): 3872-3883.[paper](https://proceedings.neurips.cc/paper/2020/hash/285f89b802bcb2651801455c86d78f2a-Abstract.html)
+- Donti, Priya, et al. "Adversarially robust learning for security-constrained optimal power flow." Advances in Neural Information Processing Systems 34 (2021): 28677-28689.[paper](https://papers.nips.cc/paper/2021/file/f0f07e680de407b0f12abf15bd520097-Paper.pdf)

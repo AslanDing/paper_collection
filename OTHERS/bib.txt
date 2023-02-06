@@ -53,3 +53,27 @@
   number={11},
   year={2008}
 }
+
+@inproceedings{NEURIPS2020_285f89b8,
+ author = {Yu, Zeping and Zheng, Wenxin and Wang, Jiaqi and Tang, Qiyi and Nie, Sen and Wu, Shi},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+ pages = {3872--3883},
+ publisher = {Curran Associates, Inc.},
+ title = {CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching},
+ url = {https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf},
+ volume = {33},
+ year = {2020}
+}
+
+@article{donti2021adversarially,
+  title={Adversarially robust learning for security-constrained optimal power flow},
+  author={Donti, Priya and Agarwal, Aayushya and Bedmutha, Neeraj Vijay and Pileggi, Larry and Kolter, J Zico},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={28677--28689},
+  year={2021}
+}
+
+
+
