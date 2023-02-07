@@ -6,3 +6,9 @@
   year={2020}
 }
 
+@inproceedings{park2021graphens,
+  title={GraphENS: Neighbor-aware ego network synthesis for class-imbalanced node classification},
+  author={Park, Joonhyung and Song, Jaeyun and Yang, Eunho},
+  booktitle={International Conference on Learning Representations},
+  year={2021}
+}
