@@ -6,3 +6,6 @@
 
 # 2016
 - Salimans, Tim, et al. "Improved techniques for training gans." Advances in neural information processing systems 29 (2016).[paper](https://proceedings.neurips.cc/paper/2016/file/8a3363abe792db2d8761d6403605aeb7-Paper.pdf)
+
+# 2020
+- Chen, Ting, et al. "A simple framework for contrastive learning of visual representations." International conference on machine learning. PMLR, 2020.[paper](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf)

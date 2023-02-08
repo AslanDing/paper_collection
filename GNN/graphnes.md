@@ -4,4 +4,6 @@
 -  In this paper, we hypothesize that overfitting to
 the neighbor sets of minor class due to message passing is a major challenge for
 class-imbalanced node classification. 
-- 
+
+
+what is a ego network?

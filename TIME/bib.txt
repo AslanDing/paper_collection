@@ -48,3 +48,10 @@
   pages={11106--11115},
   year={2021}
 }
+
+@article{oreshkin2019n,
+  title={N-BEATS: Neural basis expansion analysis for interpretable time series forecasting},
+  author={Oreshkin, Boris N and Carpov, Dmitri and Chapados, Nicolas and Bengio, Yoshua},
+  journal={arXiv preprint arXiv:1905.10437},
+  year={2019}
+}

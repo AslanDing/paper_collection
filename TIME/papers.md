@@ -3,6 +3,7 @@
 
 # 2019
 - Mousavi, S. Mostafa, et al. "CRED: A deep residual network of convolutional and recurrent units for earthquake signal detection." Scientific reports 9.1 (2019): 1-14.[paper](https://www.nature.com/articles/s41598-019-45748-1)
+- Oreshkin, Boris N., et al. "N-BEATS: Neural basis expansion analysis for interpretable time series forecasting." arXiv preprint arXiv:1905.10437 (2019).[paper](https://arxiv.org/pdf/1905.10437.pdf)
 
 # 2020
 - Mousavi, S. Mostafa, et al. "Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking." Nature communications 11.1 (2020): 1-12.[paper](https://www.nature.com/articles/s41467-020-17591-w)

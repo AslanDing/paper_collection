@@ -25,3 +25,12 @@
   volume={29},
   year={2016}
 }
+
+@inproceedings{chen2020simple,
+  title={A simple framework for contrastive learning of visual representations},
+  author={Chen, Ting and Kornblith, Simon and Norouzi, Mohammad and Hinton, Geoffrey},
+  booktitle={International conference on machine learning},
+  pages={1597--1607},
+  year={2020},
+  organization={PMLR}
+}
