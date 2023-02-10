@@ -1,0 +1,14 @@
+@inproceedings{he2021fedgraphnn,
+  title={Fedgraphnn: a federated learning benchmark system for graph neural networks},
+  author={He, Chaoyang and Balasubramanian, Keshav and Ceyani, Emir and Yang, Carl and Xie, Han and Sun, Lichao and He, Lifang and Yang, Liangwei and Yu, Philip S and Rong, Yu and others},
+  booktitle={ICLR 2021 Workshop on Distributed and Private Machine Learning (DPML)},
+  year={2021}
+}
+
+@article{zhu2021empirical,
+  title={An empirical study of graph contrastive learning},
+  author={Zhu, Yanqiao and Xu, Yichen and Liu, Qiang and Wu, Shu},
+  journal={arXiv preprint arXiv:2109.01116},
+  year={2021}
+}
+
