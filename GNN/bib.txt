@@ -32,3 +32,17 @@ year={2022},
 url={https://openreview.net/forum?id=SHbhHHfePhP}
 }
 
+@inproceedings{yu2022multiplex,
+  title={Multiplex heterogeneous graph convolutional network},
+  author={Yu, Pengyang and Fu, Chaofan and Yu, Yanwei and Huang, Chao and Zhao, Zhongying and Dong, Junyu},
+  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={2377--2387},
+  year={2022}
+}
+
+@article{bevilacqua2021equivariant,
+  title={Equivariant subgraph aggregation networks},
+  author={Bevilacqua, Beatrice and Frasca, Fabrizio and Lim, Derek and Srinivasan, Balasubramaniam and Cai, Chen and Balamurugan, Gopinath and Bronstein, Michael M and Maron, Haggai},
+  journal={arXiv preprint arXiv:2110.02910},
+  year={2021}
+}
