@@ -55,3 +55,10 @@
   journal={arXiv preprint arXiv:1905.10437},
   year={2019}
 }
+
+@article{li2023mts,
+  title={MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing},
+  author={Li, Zhe and Rao, Zhongwen and Pan, Lujia and Xu, Zenglin},
+  journal={arXiv preprint arXiv:2302.04501},
+  year={2023}
+}

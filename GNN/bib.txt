@@ -46,3 +46,10 @@ url={https://openreview.net/forum?id=SHbhHHfePhP}
   journal={arXiv preprint arXiv:2110.02910},
   year={2021}
 }
+
+@article{zhao2022consistency,
+  title={On consistency in graph neural network interpretation},
+  author={Zhao, Tianxiang and Luo, Dongsheng and Zhang, Xiang and Wang, Suhang},
+  journal={arXiv preprint arXiv:2205.13733},
+  year={2022}
+}

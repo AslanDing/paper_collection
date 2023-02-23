@@ -11,3 +11,4 @@
 # 2022
 - Huang, Wenbing, et al. "Equivariant graph mechanics networks with constraints." arXiv preprint arXiv:2203.06442 (2022).[paper](https://openreview.net/pdf?id=SHbhHHfePhP)
 - Yu, Pengyang, et al. "Multiplex heterogeneous graph convolutional network." Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022.[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539482)
+- Zhao, Tianxiang, et al. "On consistency in graph neural network interpretation." arXiv preprint arXiv:2205.13733 (2022).[paper](https://arxiv.org/pdf/2205.13733.pdf)

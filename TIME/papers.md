@@ -11,3 +11,6 @@
 # 2021
 - Chowdhury, Farhan Asif, et al. "FASER: Seismic Phase Identifier for Automated Monitoring." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467064)
 - Zhou, Haoyi, et al. "Informer: Beyond efficient transformer for long sequence time-series forecasting." Proceedings of the AAAI conference on artificial intelligence. Vol. 35. No. 12. 2021.[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17325)
+
+# 2023
+- Li, Zhe, et al. "MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing." arXiv preprint arXiv:2302.04501 (2023).[paper](https://arxiv.org/pdf/2302.04501v1.pdf)
