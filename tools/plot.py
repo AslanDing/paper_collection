@@ -46,7 +46,7 @@ plt.rc('xtick', labelsize=BIGGER_SIZE )    # fontsize of the tick labels
 plt.rc('ytick', labelsize=BIGGER_SIZE )    # fontsize of the tick labels
 plt.rc('legend', fontsize=BIGGER_SIZE )    # legend fontsize
 font1 = {'color':'black','size':18}
-
+plt.rcParams["figure.figsize"] = (6,3)
 plt.plot(ratios, bb_no_aug[0],'o-', label = "W/O Aug.")
 plt.plot(ratios, bb_aug[0],'o-', label = "W/ Aug.")
 plt.legend()
