@@ -16,6 +16,14 @@
 # 2015
 - Chen, Tianqi, et al. "Xgboost: extreme gradient boosting." R package version 0.4-2 1.4 (2015): 1-4.[paper](https://cran.microsoft.com/snapshot/2017-12-11/web/packages/xgboost/vignettes/xgboost.pdf)
 
+# 2018
+- Bernstein, Jeremy, et al. "signSGD: Compressed optimisation for non-convex problems." International Conference on Machine Learning. PMLR, 2018.[paper](https://arxiv.org/pdf/1802.04434.pdf)
+
+# 2022
+- Han, Xizewen, Huangjie Zheng, and Mingyuan Zhou. "CARD: Classification and Regression Diffusion Models." Advances in Neural Information Processing Systems.[paper](https://arxiv.org/pdf/2206.07275.pdf)
+- Peebles, William, and Saining Xie. "Scalable Diffusion Models with Transformers." arXiv preprint arXiv:2212.09748 (2022).[paper](https://arxiv.org/pdf/2212.09748.pdf)
+- Zeng, Ailing, et al. "Are transformers effective for time series forecasting?." arXiv preprint arXiv:2205.13504 (2022).[paper](https://arxiv.org/pdf/2205.13504.pdf)
+
 #   broader impact & ethic statement
 - Yu, Zeping, et al. "Codecmr: Cross-modal retrieval for function-level binary source code matching." Advances in Neural Information Processing Systems 33 (2020): 3872-3883.[paper](https://proceedings.neurips.cc/paper/2020/hash/285f89b802bcb2651801455c86d78f2a-Abstract.html)
 - Donti, Priya, et al. "Adversarially robust learning for security-constrained optimal power flow." Advances in Neural Information Processing Systems 34 (2021): 28677-28689.[paper](https://papers.nips.cc/paper/2021/file/f0f07e680de407b0f12abf15bd520097-Paper.pdf)
